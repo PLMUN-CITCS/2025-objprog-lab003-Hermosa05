@@ -1,0 +1,3 @@
+Enter an integer: Enter a decimal number: Enter a word or sentence: Your integer: 5
+Your decimal number: 10.00
+Your string: This is a String
